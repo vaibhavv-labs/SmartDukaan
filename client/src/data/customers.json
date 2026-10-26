@@ -1,0 +1,17 @@
+[
+  { "id": 1, "name": "Rahul Sharma", "phone": "9876543210", "pendingAmount": 850, "lastPaymentDate": "2026-10-18", "firstCreditDate": "2026-09-10", "totalTransactions": 24, "riskScore": 25, "riskLevel": "low" },
+  { "id": 2, "name": "Sunita Devi", "phone": "9812345678", "pendingAmount": 1200, "lastPaymentDate": "2026-10-10", "firstCreditDate": "2026-07-15", "totalTransactions": 38, "riskScore": 40, "riskLevel": "moderate" },
+  { "id": 3, "name": "Ramesh Kaka", "phone": "9998765432", "pendingAmount": 3200, "lastPaymentDate": "2026-09-25", "firstCreditDate": "2026-05-20", "totalTransactions": 52, "riskScore": 75, "riskLevel": "high" },
+  { "id": 4, "name": "Priya Patel", "phone": "9887654321", "pendingAmount": 450, "lastPaymentDate": "2026-10-20", "firstCreditDate": "2026-10-05", "totalTransactions": 8, "riskScore": 15, "riskLevel": "low" },
+  { "id": 5, "name": "Vikram Singh", "phone": "9776543210", "pendingAmount": 2800, "lastPaymentDate": "2026-09-15", "firstCreditDate": "2026-04-10", "totalTransactions": 45, "riskScore": 82, "riskLevel": "high" },
+  { "id": 6, "name": "Anjali Gupta", "phone": "9665432109", "pendingAmount": 600, "lastPaymentDate": "2026-10-22", "firstCreditDate": "2026-09-01", "totalTransactions": 15, "riskScore": 10, "riskLevel": "low" },
+  { "id": 7, "name": "Deepak Yadav", "phone": "9554321098", "pendingAmount": 1800, "lastPaymentDate": "2026-10-05", "firstCreditDate": "2026-06-20", "totalTransactions": 32, "riskScore": 55, "riskLevel": "moderate" },
+  { "id": 8, "name": "Meena Kumari", "phone": "9443210987", "pendingAmount": 200, "lastPaymentDate": "2026-10-21", "firstCreditDate": "2026-10-15", "totalTransactions": 5, "riskScore": 5, "riskLevel": "low" },
+  { "id": 9, "name": "Ajay Thakur", "phone": "9332109876", "pendingAmount": 4500, "lastPaymentDate": "2026-09-01", "firstCreditDate": "2026-03-15", "totalTransactions": 60, "riskScore": 90, "riskLevel": "high" },
+  { "id": 10, "name": "Kavita Joshi", "phone": "9221098765", "pendingAmount": 950, "lastPaymentDate": "2026-10-15", "firstCreditDate": "2026-08-01", "totalTransactions": 20, "riskScore": 35, "riskLevel": "moderate" },
+  { "id": 11, "name": "Raju Chaiwala", "phone": "9110987654", "pendingAmount": 5200, "lastPaymentDate": "2026-08-20", "firstCreditDate": "2026-02-10", "totalTransactions": 70, "riskScore": 95, "riskLevel": "high" },
+  { "id": 12, "name": "Shalini Mishra", "phone": "9009876543", "pendingAmount": 350, "lastPaymentDate": "2026-10-22", "firstCreditDate": "2026-10-10", "totalTransactions": 7, "riskScore": 8, "riskLevel": "low" },
+  { "id": 13, "name": "Manoj Kumar", "phone": "9898765432", "pendingAmount": 1500, "lastPaymentDate": "2026-10-08", "firstCreditDate": "2026-07-01", "totalTransactions": 28, "riskScore": 48, "riskLevel": "moderate" },
+  { "id": 14, "name": "Pooja Rawat", "phone": "9787654321", "pendingAmount": 750, "lastPaymentDate": "2026-10-19", "firstCreditDate": "2026-09-20", "totalTransactions": 12, "riskScore": 20, "riskLevel": "low" },
+  { "id": 15, "name": "Suresh Bhai", "phone": "9676543210", "pendingAmount": 2100, "lastPaymentDate": "2026-09-28", "firstCreditDate": "2026-05-01", "totalTransactions": 42, "riskScore": 65, "riskLevel": "high" }
+]
